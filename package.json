@@ -1,0 +1,77 @@
+{
+  "name": ".github",
+  "version": "1.0.0",
+  "exports": null,
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index",
+    "dev": "tsx --watch src/index",
+    "prepare": "husky",
+    "release": "semantic-release",
+    "lint-staged": "lint-staged",
+    "format": "prettier . --write --cache --ignore-unknown",
+    "format:check": "prettier . --check --ignore-unknown",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wishware/.github.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "wishware",
+    "email": "contact@w1sh.xyz"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wishware/.github/issues"
+  },
+  "homepage": "https://github.com/wishware/.github#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^18.6.1",
+    "@commitlint/config-conventional": "^18.6.3",
+    "@commitlint/types": "^19.8.0",
+    "@k4i/eslint-config": "^2.0.0",
+    "@k4i/prettier-config": "^2.0.0",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/commit-analyzer": "^13.0.1",
+    "@semantic-release/exec": "^7.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/release-notes-generator": "^14.0.3",
+    "@types/node": "^22.14.0",
+    "dotenv": "^16.5.0",
+    "eslint": "^8.55.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^15.0.0",
+    "prettier": "^3.0.0",
+    "semantic-release": "^24.2.3",
+    "tsx": "^4.19.3",
+    "typescript": "^5.0.0"
+  },
+  "lint-staged": {
+    "*.{ts,tsx,js,json,md}": [
+      "prettier . --write --cache --ignore-unknown"
+    ],
+    "*.{ts,tsx,js}": [
+      "eslint . --fix"
+    ]
+  },
+  "release": {
+    "branches": [
+      "main"
+    ],
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      "@semantic-release/git"
+    ]
+  },
+  "packageManager": "pnpm@10.8.1",
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
+  }
+}
