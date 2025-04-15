@@ -1,3 +1,3 @@
-<!--counter:1-->
+<!--counter:2-->
 
-🔁 Update counter: **1**
+🔁 Update counter: **2**
