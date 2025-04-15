@@ -22,4 +22,4 @@ if (content.includes('🔁 Update counter:')) {
 }
 
 fs.writeFileSync(readmePath, content);
-console.log(`✅ README actualizado. Nuevo contador: ${count}`);
+console.log(`✅ Updated README. New counter: ${count}`);
