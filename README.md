@@ -50,7 +50,7 @@ Our approach combines technical quality with principles of transparency, securit
 | :-----------------------------: | :------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------: |
 | <code>[2023 12/13 01:52]</code> | [discord-injection](https://github.com/wishware/discord-injection)   | <code>6</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | Discord-injection Premium and uniqu... | <code>JavaScript</code> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="20" width="20" /> |
 | <code>[2025 04/08 01:01]</code> | [wish-server-cloner](https://github.com/wishware/wish-server-cloner) | <code>1</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | App that will generally help you co... | <code>TypeScript</code> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="20" width="20" /> |
-<!-- Last update: 2025-04-16T12:15:51.720Z -->
+<!-- Last update: 2025-04-16T12:57:56.396Z -->
 <!--repository:end-->
 
 > [!IMPORTANT]  
@@ -66,7 +66,7 @@ Our approach combines technical quality with principles of transparency, securit
 <code><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="30" width="30" /></code>
 <code><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="30" width="30" /></code>
 <code><img src="https://github.com/user-attachments/assets/76a9fd72-22ac-46f0-a3bd-d2a7dc1119f9" alt="Shell icon unknown" height="30" width="30" /></code>
-<!-- Last update: 2025-04-16T12:15:52.415Z -->
+<!-- Last update: 2025-04-16T12:57:56.897Z -->
 <!--languages:end-->
 
 ## 📌 Last viewed activities
@@ -74,6 +74,11 @@ Our approach combines technical quality with principles of transparency, securit
 <!--activity:start-->
 <details><summary>🎯 If you click you will see the history</summary>
 
+`[2025 04/16 01:51]` ⭐ Starred repository [k4itrun/wish](https://github.com/k4itrun/wish)<br/>
+`[2025 04/16 01:50]` 📝 Made `1` commit in [k4itrun/erisphisher](https://github.com/k4itrun/erisphisher)<br/>
+`[2025 04/16 01:50]` 📝 Made `2` commits in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
+`[2025 04/16 01:47]` 📝 Made `1` commit in [k4itrun/erisphisher](https://github.com/k4itrun/erisphisher)<br/>
+`[2025 04/16 01:45]` 📝 Made `1` commit in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
 `[2025 04/16 00:24]` 📝 Made `1` commit in [k4itrun/k4itrun](https://github.com/k4itrun/k4itrun)<br/>
 `[2025 04/16 00:18]` 📝 Made `11` commits in [wishware/.github](https://github.com/wishware/.github)<br/>
 `[2025 04/14 02:49]` 📝 Made `1` commit in [k4itrun/k4itrun](https://github.com/k4itrun/k4itrun)<br/>
@@ -83,15 +88,10 @@ Our approach combines technical quality with principles of transparency, securit
 `[2025 04/14 00:05]` 📝 Made `3` commits in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
 `[2025 04/13 23:32]` 🔖 Created tag `1.0` in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
 `[2025 04/13 23:32]` 🏷 Released [`1.0`](https://github.com/k4itrun/hackercam/releases/tag/1.0) in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
-`[2025 04/13 23:30]` ❌ Deleted `HackerCam` from [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
-`[2025 04/13 23:28]` 📝 Made `1` commit in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
-`[2025 04/13 22:37]` 📝 Made `3` commits in [k4itrun/discord.js-token](https://github.com/k4itrun/discord.js-token)<br/>
-`[2025 04/13 22:00]` 📝 Made `1` commit in [k4itrun/wick](https://github.com/k4itrun/wick)<br/>
-`[2025 04/13 21:49]` 📝 Made `1` commit in [k4itrun/discord-antilinks-bypasser](https://github.com/k4itrun/discord-antilinks-bypasser)<br/>
-`[2025 04/13 20:47]` 📝 Made `1` commit in [k4itrun/example.xyz](https://github.com/k4itrun/example.xyz)
+`[2025 04/13 23:30]` ❌ Deleted `HackerCam` from [k4itrun/hackercam](https://github.com/k4itrun/hackercam)
 
 </details>
-<!-- Last update: 2025-04-16T12:15:51.935Z -->
+<!-- Last update: 2025-04-16T12:57:56.598Z -->
 <!--activity:end-->
 
 <p align="right">
