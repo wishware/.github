@@ -9,6 +9,7 @@ coverage/
 *.min.js
 *.d.ts
 *.log
+*.md
 
 # Configuration files
 package-lock.json

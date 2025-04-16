@@ -1,7 +1,7 @@
 // @ts-check
-/** @type {import('eslint').Linter.Config} */
 import eslintConfig from '@k4i/eslint-config';
 
+/** @type {import('eslint').Linter.Config[]} */
 export default [
   // prettier
   ...eslintConfig.base,

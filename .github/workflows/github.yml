@@ -7,7 +7,7 @@ on:
 
 jobs:
   lint:
-    name: README Stats
+    name: README Profile
     runs-on: ubuntu-latest
     env:
       GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -42,15 +42,20 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Generate README.md
+      - name: Generate profile README.md
         run: 'pnpm run start'
 
       - name: Save changes
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
-          git config user.name k4itrunBot
-          git config user.email 153697070+k4itrunBot@users.noreply.github.com
-          git add .
-          git commit -m "chore(bot): update readme"
-          git push -f
+          NAME="k4itrunBot"
+          EMAIL_ID="153697070"
+          EMAIL_DOMAIN="users.noreply.github.com"
+          EMAIL="${EMAIL_ID}+${NAME}@${EMAIL_DOMAIN}"
+          TIMESTAMP=$(date +"%a %b %d %H:%M:%S %Y %z" | tr '[:upper:]' '[:lower:]')
+          git config --local user.name "$NAME"
+          git config --local user.email "$EMAIL"
+          git add -A
+          git commit -m "chore(bot): update readme - updated at: $TIMESTAMP"
+          git push --force
           fi
