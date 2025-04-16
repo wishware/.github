@@ -54,8 +54,8 @@
       "prettier . --write --cache --ignore-unknown"
     ],
     "*.{ts,tsx,js}": [
-      "eslint . --fix --no-cache",
-      "git add ."
+      "git add .",
+      "eslint . --fix"
     ]
   },
   "release": {
