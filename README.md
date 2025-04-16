@@ -48,9 +48,9 @@ Our approach combines technical quality with principles of transparency, securit
 <!--repository:start-->
 |            Published            | Repository                                                           |                                                                        Stars                                                                        | Description                            |                                                           Language                                                           |
 | :-----------------------------: | :------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------: |
-| <code>[2023 12/12 20:52]</code> | [discord-injection](https://github.com/wishware/discord-injection)   | <code>6</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | Discord-injection Premium and uniqu... | <code>JavaScript</code> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="20" width="20" /> |
-| <code>[2025 04/07 20:01]</code> | [wish-server-cloner](https://github.com/wishware/wish-server-cloner) | <code>1</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | App that will generally help you co... | <code>TypeScript</code> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="20" width="20" /> |
-<!-- Last update: 2025-04-15T23:58:14.440Z -->
+| <code>[2023 12/13 01:52]</code> | [discord-injection](https://github.com/wishware/discord-injection)   | <code>6</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | Discord-injection Premium and uniqu... | <code>JavaScript</code> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="20" width="20" /> |
+| <code>[2025 04/08 01:01]</code> | [wish-server-cloner](https://github.com/wishware/wish-server-cloner) | <code>1</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | App that will generally help you co... | <code>TypeScript</code> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="20" width="20" /> |
+<!-- Last update: 2025-04-16T00:21:42.785Z -->
 <!--repository:end-->
 
 > [!IMPORTANT]  
@@ -65,12 +65,8 @@ Our approach combines technical quality with principles of transparency, securit
 <!--languages:start-->
 <code><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="30" width="30" /></code>
 <code><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="30" width="30" /></code>
-<code><img src="https://github.com/user-attachments/assets/76a9fd72-22ac-46f0-a3bd-d2a7dc1119f9" alt="MDX icon unknown" height="30" width="30" /></code>
-<code><img src="https://skillicons.dev/icons?i=go" alt="Go icon" height="30" width="30" /></code>
-<code><img src="https://skillicons.dev/icons?i=css" alt="CSS icon" height="30" width="30" /></code>
-<code><img src="https://github.com/user-attachments/assets/76a9fd72-22ac-46f0-a3bd-d2a7dc1119f9" alt="Batchfile icon unknown" height="30" width="30" /></code>
 <code><img src="https://github.com/user-attachments/assets/76a9fd72-22ac-46f0-a3bd-d2a7dc1119f9" alt="Shell icon unknown" height="30" width="30" /></code>
-<!-- Last update: 2025-04-15T23:58:16.719Z -->
+<!-- Last update: 2025-04-16T00:21:43.536Z -->
 <!--languages:end-->
 
 ## 📌 Last viewed activities
@@ -78,24 +74,24 @@ Our approach combines technical quality with principles of transparency, securit
 <!--activity:start-->
 <details><summary>🎯 If you click you will see the history</summary>
 
-`[2025 04/14 08:19]` 📝 Made `5` commits in [k4itrun/discord-storage-badges](https://github.com/k4itrun/discord-storage-badges)<br/>
-`[2025 04/14 08:14]` 📝 Made `1` commit in [k4itrun/erisphisher](https://github.com/k4itrun/erisphisher)<br/>
-`[2025 04/14 08:13]` 📝 Made `1` commit in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
-`[2025 04/13 21:49]` 📝 Made `1` commit in [k4itrun/k4itrun](https://github.com/k4itrun/k4itrun)<br/>
-`[2025 04/13 19:11]` 🏷 Released [`1.0`](https://github.com/k4itrun/erisphisher/releases/tag/1.0) in [k4itrun/erisphisher](https://github.com/k4itrun/erisphisher)<br/>
-`[2025 04/13 19:11]` 🔖 Created tag `1.0` in [k4itrun/erisphisher](https://github.com/k4itrun/erisphisher)<br/>
-`[2025 04/13 19:10]` 📝 Made `3` commits in [k4itrun/erisphisher](https://github.com/k4itrun/erisphisher)<br/>
-`[2025 04/13 19:05]` 📝 Made `3` commits in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
-`[2025 04/13 18:32]` 🔖 Created tag `1.0` in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
-`[2025 04/13 18:32]` 🏷 Released [`1.0`](https://github.com/k4itrun/hackercam/releases/tag/1.0) in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
-`[2025 04/13 18:30]` ❌ Deleted `HackerCam` from [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
-`[2025 04/13 18:28]` 📝 Made `1` commit in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
-`[2025 04/13 17:37]` 📝 Made `3` commits in [k4itrun/discord.js-token](https://github.com/k4itrun/discord.js-token)<br/>
-`[2025 04/13 17:00]` 📝 Made `1` commit in [k4itrun/wick](https://github.com/k4itrun/wick)<br/>
-`[2025 04/13 16:49]` 📝 Made `1` commit in [k4itrun/discord-antilinks-bypasser](https://github.com/k4itrun/discord-antilinks-bypasser)
+`[2025 04/15 01:00]` 📝 Made `9` commits in [wishware/.github](https://github.com/wishware/.github)<br/>
+`[2025 04/14 02:49]` 📝 Made `1` commit in [k4itrun/k4itrun](https://github.com/k4itrun/k4itrun)<br/>
+`[2025 04/14 00:11]` 🏷 Released [`1.0`](https://github.com/k4itrun/erisphisher/releases/tag/1.0) in [k4itrun/erisphisher](https://github.com/k4itrun/erisphisher)<br/>
+`[2025 04/14 00:11]` 🔖 Created tag `1.0` in [k4itrun/erisphisher](https://github.com/k4itrun/erisphisher)<br/>
+`[2025 04/14 00:10]` 📝 Made `3` commits in [k4itrun/erisphisher](https://github.com/k4itrun/erisphisher)<br/>
+`[2025 04/14 00:05]` 📝 Made `3` commits in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
+`[2025 04/13 23:32]` 🔖 Created tag `1.0` in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
+`[2025 04/13 23:32]` 🏷 Released [`1.0`](https://github.com/k4itrun/hackercam/releases/tag/1.0) in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
+`[2025 04/13 23:30]` ❌ Deleted `HackerCam` from [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
+`[2025 04/13 23:28]` 📝 Made `1` commit in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
+`[2025 04/13 22:37]` 📝 Made `3` commits in [k4itrun/discord.js-token](https://github.com/k4itrun/discord.js-token)<br/>
+`[2025 04/13 22:00]` 📝 Made `1` commit in [k4itrun/wick](https://github.com/k4itrun/wick)<br/>
+`[2025 04/13 21:49]` 📝 Made `1` commit in [k4itrun/discord-antilinks-bypasser](https://github.com/k4itrun/discord-antilinks-bypasser)<br/>
+`[2025 04/13 20:47]` 📝 Made `1` commit in [k4itrun/example.xyz](https://github.com/k4itrun/example.xyz)<br/>
+`[2025 04/13 20:34]` 📝 Made `1` commit in [k4itrun/simple.db](https://github.com/k4itrun/simple.db)
 
 </details>
-<!-- Last update: 2025-04-15T23:58:14.934Z -->
+<!-- Last update: 2025-04-16T00:21:43.072Z -->
 <!--activity:end-->
 
 <p align="right">
