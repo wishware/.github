@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/wishware/.github/compare/v1.0.1...v1.1.0) (2025-04-16)
+
+
+### Features
+
+* readme ([ea36313](https://github.com/wishware/.github/commit/ea36313918efe057bab8d998807beab71de15600))
+
 ## [1.0.1](https://github.com/wishware/.github/compare/v1.0.0...v1.0.1) (2025-04-14)
 
 
