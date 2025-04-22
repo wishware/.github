@@ -50,7 +50,7 @@ Our approach combines technical quality with principles of transparency, securit
 | :-----------------------------: | :----------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------: |
 | <code>[2023 12/13 01:52]</code> | [discord-injection](https://github.com/wishware/discord-injection) | <code>6</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 💉 Discord-injection Premium and un... | <code>JavaScript</code> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="20" width="20" /> |
 | <code>[2025 04/08 01:01]</code> | [app-wishxner](https://github.com/wishware/app-wishxner)           | <code>2</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 📡 App that will generally help you... | <code>TypeScript</code> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="20" width="20" /> |
-<!-- Last update: 2025-04-22T19:10:54.249Z -->
+<!-- Last update: 2025-04-22T19:24:31.150Z -->
 <!--repository:end-->
 
 > [!IMPORTANT]  
@@ -66,7 +66,7 @@ Our approach combines technical quality with principles of transparency, securit
 <code><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="30" width="30" /></code>
 <code><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="30" width="30" /></code>
 <code><img src="https://github.com/user-attachments/assets/76a9fd72-22ac-46f0-a3bd-d2a7dc1119f9" alt="Shell icon unknown" height="30" width="30" /></code>
-<!-- Last update: 2025-04-22T19:10:55.087Z -->
+<!-- Last update: 2025-04-22T19:24:32.016Z -->
 <!--languages:end-->
 
 ## 📌 Last viewed activities
@@ -74,6 +74,8 @@ Our approach combines technical quality with principles of transparency, securit
 <!--activity:start-->
 <details><summary>🎯 If you click you will see the history</summary>
 
+`[2025 04/22 15:27]` ❗️ Closed issue [`#7`](https://github.com/k4itrun/wish/issues/7 'Error starting the .exe file') in [k4itrun/wish](https://github.com/k4itrun/wish)<br/>
+`[2025 04/22 15:27]` 🗣 Commented on [`#7`](https://github.com/k4itrun/wish/issues/7 'Error starting the .exe file') in [k4itrun/wish](https://github.com/k4itrun/wish)<br/>
 `[2025 04/22 02:51]` 📝 Made `2` commits in [k4itrun/etc](https://github.com/k4itrun/etc)<br/>
 `[2025 04/22 01:45]` 📂 Created branch [`main`](https://github.com/k4itrun/etc/tree/main) in [k4itrun/etc](https://github.com/k4itrun/etc)<br/>
 `[2025 04/22 01:44]` ➕ Created repository [k4itrun/etc](https://github.com/k4itrun/etc)<br/>
@@ -86,12 +88,10 @@ Our approach combines technical quality with principles of transparency, securit
 `[2025 04/21 20:25]` 📝 Made `2` commits in [k4itrun/next-portfolio](https://github.com/k4itrun/next-portfolio)<br/>
 `[2025 04/21 20:05]` 📝 Made `6` commits in [k4itrun/wish](https://github.com/k4itrun/wish)<br/>
 `[2025 04/20 18:20]` 📝 Made `2` commits in [k4itrun/www.example.xyz](https://github.com/k4itrun/www.example.xyz)<br/>
-`[2025 04/20 17:12]` 📝 Made `1` commit in [k4itrun/example.xyz](https://github.com/k4itrun/example.xyz)<br/>
-`[2025 04/19 21:50]` 📝 Made `1` commit in [k4itrun/discord-antilinks-bypasser](https://github.com/k4itrun/discord-antilinks-bypasser)<br/>
-`[2025 04/19 21:33]` 📝 Made `1` commit in [k4itrun/wick](https://github.com/k4itrun/wick)
+`[2025 04/20 17:12]` 📝 Made `1` commit in [k4itrun/example.xyz](https://github.com/k4itrun/example.xyz)
 
 </details>
-<!-- Last update: 2025-04-22T19:10:54.564Z -->
+<!-- Last update: 2025-04-22T19:24:31.526Z -->
 <!--activity:end-->
 
 <p align="right">
