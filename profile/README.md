@@ -50,7 +50,7 @@ Our approach combines technical quality with principles of transparency, securit
 | :-----------------------------: | :----------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------: |
 | <code>[2023 12/13 01:52]</code> | [discord-injection](https://github.com/wishware/discord-injection) | <code>6</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 💉 Discord-injection Premium and un... | <code>JavaScript</code> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="20" width="20" /> |
 | <code>[2025 04/08 01:01]</code> | [app-wishxner](https://github.com/wishware/app-wishxner)           | <code>2</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 📡 App that will generally help you... | <code>TypeScript</code> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="20" width="20" /> |
-<!-- Last update: 2025-04-26T16:41:58.458Z -->
+<!-- Last update: 2025-04-26T16:50:28.304Z -->
 <!--repository:end-->
 
 > [!IMPORTANT]  
@@ -66,7 +66,7 @@ Our approach combines technical quality with principles of transparency, securit
 <code><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="30" width="30" /></code>
 <code><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="30" width="30" /></code>
 <code><img src="https://github.com/user-attachments/assets/76a9fd72-22ac-46f0-a3bd-d2a7dc1119f9" alt="Shell icon unknown" height="30" width="30" /></code>
-<!-- Last update: 2025-04-26T16:41:59.098Z -->
+<!-- Last update: 2025-04-26T16:50:28.954Z -->
 <!--languages:end-->
 
 ## 📌 Last viewed activities
@@ -91,7 +91,7 @@ Our approach combines technical quality with principles of transparency, securit
 `[2025 04/22 15:27]` 🗣 Commented on [`#7`](https://github.com/k4itrun/wish/issues/7 'Error starting the .exe file') in [k4itrun/wish](https://github.com/k4itrun/wish)
 
 </details>
-<!-- Last update: 2025-04-26T16:41:58.739Z -->
+<!-- Last update: 2025-04-26T16:50:28.614Z -->
 <!--activity:end-->
 
 <p align="right">
