@@ -50,7 +50,7 @@ Our approach combines technical quality with principles of transparency, securit
 | :-----------------------------: | :----------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------: |
 | <code>[2023 12/13 01:52]</code> | [discord-injection](https://github.com/wishware/discord-injection) | <code>6</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 💉 Discord-injection Premium and un... | <code>JavaScript</code> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="20" width="20" /> |
 | <code>[2025 04/08 01:01]</code> | [app-wishxner](https://github.com/wishware/app-wishxner)           | <code>2</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 📡 App that will generally help you... | <code>TypeScript</code> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="20" width="20" /> |
-<!-- Last update: 2025-05-02T19:54:54.648Z -->
+<!-- Last update: 2025-05-02T20:13:26.459Z -->
 <!--repository:end-->
 
 > [!IMPORTANT]  
@@ -66,7 +66,7 @@ Our approach combines technical quality with principles of transparency, securit
 <code><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="30" width="30" /></code>
 <code><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="30" width="30" /></code>
 <code><img src="https://github.com/user-attachments/assets/76a9fd72-22ac-46f0-a3bd-d2a7dc1119f9" alt="Shell icon unknown" height="30" width="30" /></code>
-<!-- Last update: 2025-05-02T19:54:55.197Z -->
+<!-- Last update: 2025-05-02T20:13:27.165Z -->
 <!--languages:end-->
 
 ## 📌 Last viewed activities
@@ -74,6 +74,7 @@ Our approach combines technical quality with principles of transparency, securit
 <!--activity:start-->
 <details><summary>🎯 If you click you will see the history</summary>
 
+`[2025 05/02 17:55]` ⭐ Starred repository [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig)<br/>
 `[2025 05/02 05:56]` ⭐ Starred repository [pnpm/pacquet](https://github.com/pnpm/pacquet)<br/>
 `[2025 05/01 21:46]` 📝 Made `2` commits in [k4itrun/my-shared-config](https://github.com/k4itrun/my-shared-config)<br/>
 `[2025 05/01 15:55]` 📝 Made `2` commits in [k4itrun/wish](https://github.com/k4itrun/wish)<br/>
@@ -87,11 +88,10 @@ Our approach combines technical quality with principles of transparency, securit
 `[2025 04/26 19:40]` 📝 Made `1` commit in [k4itrun/wish](https://github.com/k4itrun/wish)<br/>
 `[2025 04/25 23:26]` 📝 Made `1` commit in [k4itrun/example.app](https://github.com/k4itrun/example.app)<br/>
 `[2025 04/25 14:19]` 📝 Made `1` commit in [k4itrun/next-portfolio](https://github.com/k4itrun/next-portfolio)<br/>
-`[2025 04/24 23:24]` 📝 Made `101` commits in [k4itrun/assets](https://github.com/k4itrun/assets)<br/>
-`[2025 04/22 21:53]` 📝 Made `1` commit in [k4itrun/www.cdn.app](https://github.com/k4itrun/www.cdn.app)
+`[2025 04/24 23:24]` 📝 Made `101` commits in [k4itrun/assets](https://github.com/k4itrun/assets)
 
 </details>
-<!-- Last update: 2025-05-02T19:54:55.016Z -->
+<!-- Last update: 2025-05-02T20:13:26.965Z -->
 <!--activity:end-->
 
 <p align="right">
