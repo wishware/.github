@@ -50,7 +50,7 @@ Our approach combines technical quality with principles of transparency, securit
 | :-----------------------------: | :----------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------: |
 | <code>[2023 12/13 01:52]</code> | [discord-injection](https://github.com/wishware/discord-injection) | <code>7</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 💉 Discord-injection Premium and un... | <code>JavaScript</code> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="20" width="20" /> |
 | <code>[2025 04/08 01:01]</code> | [app-wishxner](https://github.com/wishware/app-wishxner)           | <code>2</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 📡 App that will generally help you... | <code>TypeScript</code> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="20" width="20" /> |
-<!-- Last update: 2025-05-22T23:54:53.567Z -->
+<!-- Last update: 2025-05-23T00:58:38.740Z -->
 <!--repository:end-->
 
 > [!IMPORTANT]  
@@ -66,7 +66,7 @@ Our approach combines technical quality with principles of transparency, securit
 <code><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="30" width="30" /></code>
 <code><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="30" width="30" /></code>
 <code><img src="https://github.com/user-attachments/assets/76a9fd72-22ac-46f0-a3bd-d2a7dc1119f9" alt="Shell icon unknown" height="30" width="30" /></code>
-<!-- Last update: 2025-05-22T23:54:54.184Z -->
+<!-- Last update: 2025-05-23T00:58:39.604Z -->
 <!--languages:end-->
 
 ## 📌 Last viewed activities
@@ -74,7 +74,10 @@ Our approach combines technical quality with principles of transparency, securit
 <!--activity:start-->
 <details><summary>🎯 If you click you will see the history</summary>
 
-`[2025 05/22 22:29]` 📝 Made `1` commit in [k4itrun/.github](https://github.com/k4itrun/.github)<br/>
+`[2025 05/23 00:18]` 📝 Made `5` commits in [k4itrun/wish](https://github.com/k4itrun/wish)<br/>
+`[2025 05/23 00:03]` 🎉 Merged PR [`#26`](https://github.com/k4itrun/wish/pull/26 'chore(deps): update dependency node-gyp to v11') in [k4itrun/wish](https://github.com/k4itrun/wish)<br/>
+`[2025 05/23 00:01]` 📝 Made `2` commits in [k4itrun/wish](https://github.com/k4itrun/wish)<br/>
+`[2025 05/22 22:51]` 📝 Made `2` commits in [k4itrun/.github](https://github.com/k4itrun/.github)<br/>
 `[2025 05/22 22:15]` 📝 Made `1` commit in [k4itrun/.github](https://github.com/k4itrun/.github)<br/>
 `[2025 05/22 17:24]` 📝 Made `1` commit in [billoneta/kitsune](https://github.com/billoneta/kitsune)<br/>
 `[2025 05/20 01:23]` ❗️ Opened issue [`#4`](https://github.com/k4itrun/k4itrun/issues/4 'Temp Image Upload - 1747704210226') in [k4itrun/k4itrun](https://github.com/k4itrun/k4itrun)<br/>
@@ -85,13 +88,10 @@ Our approach combines technical quality with principles of transparency, securit
 `[2025 05/19 03:17]` 🎉 Merged PR [`#21`](https://github.com/billoneta/kitsune/pull/21 'chore(deps): update dependency @types/node to v22.15.19') in [billoneta/kitsune](https://github.com/billoneta/kitsune)<br/>
 `[2025 05/18 02:55]` 📝 Made `2` commits in [billoneta/kitsune](https://github.com/billoneta/kitsune)<br/>
 `[2025 05/18 02:55]` 🎉 Merged PR [`#19`](https://github.com/billoneta/kitsune/pull/19 'chore(deps): update dependency eslint-plugin-import-x to v4.12.0') in [billoneta/kitsune](https://github.com/billoneta/kitsune)<br/>
-`[2025 05/17 20:07]` 📝 Made `2` commits in [billoneta/kitsune](https://github.com/billoneta/kitsune)<br/>
-`[2025 05/17 20:07]` 🎉 Merged PR [`#18`](https://github.com/billoneta/kitsune/pull/18 'chore(deps): update dependency @billoneta/gitmoji to v1.0.6') in [billoneta/kitsune](https://github.com/billoneta/kitsune)<br/>
-`[2025 05/17 19:34]` 📝 Made `6` commits in [billoneta/kitsune](https://github.com/billoneta/kitsune)<br/>
-`[2025 05/17 01:17]` ❗️ Closed issue [`#24`](https://github.com/k4itrun/wick/issues/24 'Dont use, its daulhooked btw') in [k4itrun/wick](https://github.com/k4itrun/wick)
+`[2025 05/17 20:07]` 📝 Made `2` commits in [billoneta/kitsune](https://github.com/billoneta/kitsune)
 
 </details>
-<!-- Last update: 2025-05-22T23:54:53.951Z -->
+<!-- Last update: 2025-05-23T00:58:39.254Z -->
 <!--activity:end-->
 
 <p align="right">
