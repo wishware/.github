@@ -50,7 +50,7 @@ Our approach combines technical quality with principles of transparency, securit
 | :-----------------------------: | :----------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------: |
 | <code>[2023 12/13 01:52]</code> | [discord-injection](https://github.com/wishware/discord-injection) | <code>7</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 💉 Discord-injection Premium and un... | <code>JavaScript</code> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="20" width="20" /> |
 | <code>[2025 04/08 01:01]</code> | [app-wishxner](https://github.com/wishware/app-wishxner)           | <code>2</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 📡 App that will generally help you... | <code>TypeScript</code> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="20" width="20" /> |
-<!-- Last update: 2025-05-25T20:34:07.062Z -->
+<!-- Last update: 2025-05-25T20:43:38.296Z -->
 <!--repository:end-->
 
 > [!IMPORTANT]  
@@ -66,7 +66,7 @@ Our approach combines technical quality with principles of transparency, securit
 <code><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="30" width="30" /></code>
 <code><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="30" width="30" /></code>
 <code><img src="https://github.com/user-attachments/assets/76a9fd72-22ac-46f0-a3bd-d2a7dc1119f9" alt="Shell icon unknown" height="30" width="30" /></code>
-<!-- Last update: 2025-05-25T20:34:07.577Z -->
+<!-- Last update: 2025-05-25T20:43:39.121Z -->
 <!--languages:end-->
 
 ## 📌 Last viewed activities
@@ -74,6 +74,7 @@ Our approach combines technical quality with principles of transparency, securit
 <!--activity:start-->
 <details><summary>🎯 If you click you will see the history</summary>
 
+`[2025 05/25 20:41]` 📝 Made `3` commits in [k4itrun/vbs-injector](https://github.com/k4itrun/vbs-injector)<br/>
 `[2025 05/25 19:58]` ⭐ Starred repository [k4itrun/rust](https://github.com/k4itrun/rust)<br/>
 `[2025 05/25 19:58]` ⭐ Starred repository [k4itrun/k4itrun](https://github.com/k4itrun/k4itrun)<br/>
 `[2025 05/25 19:58]` ⭐ Starred repository [k4itrun/vbs-injector](https://github.com/k4itrun/vbs-injector)<br/>
@@ -87,11 +88,10 @@ Our approach combines technical quality with principles of transparency, securit
 `[2025 05/25 19:58]` ⭐ Starred repository [k4itrun/erisphisher](https://github.com/k4itrun/erisphisher)<br/>
 `[2025 05/25 19:58]` ⭐ Starred repository [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
 `[2025 05/25 19:58]` ⭐ Starred repository [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
-`[2025 05/25 19:52]` 📝 Made `6` commits in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
-`[2025 05/25 19:34]` 📝 Made `2` commits in [k4itrun/erisphisher](https://github.com/k4itrun/erisphisher)
+`[2025 05/25 19:52]` 📝 Made `6` commits in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)
 
 </details>
-<!-- Last update: 2025-05-25T20:34:07.334Z -->
+<!-- Last update: 2025-05-25T20:43:38.765Z -->
 <!--activity:end-->
 
 <p align="right">
