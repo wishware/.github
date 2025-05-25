@@ -50,7 +50,7 @@ Our approach combines technical quality with principles of transparency, securit
 | :-----------------------------: | :----------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------: |
 | <code>[2023 12/13 01:52]</code> | [discord-injection](https://github.com/wishware/discord-injection) | <code>7</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 💉 Discord-injection Premium and un... | <code>JavaScript</code> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="20" width="20" /> |
 | <code>[2025 04/08 01:01]</code> | [app-wishxner](https://github.com/wishware/app-wishxner)           | <code>2</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 📡 App that will generally help you... | <code>TypeScript</code> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="20" width="20" /> |
-<!-- Last update: 2025-05-25T18:51:19.886Z -->
+<!-- Last update: 2025-05-25T18:59:16.287Z -->
 <!--repository:end-->
 
 > [!IMPORTANT]  
@@ -66,7 +66,7 @@ Our approach combines technical quality with principles of transparency, securit
 <code><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="30" width="30" /></code>
 <code><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="30" width="30" /></code>
 <code><img src="https://github.com/user-attachments/assets/76a9fd72-22ac-46f0-a3bd-d2a7dc1119f9" alt="Shell icon unknown" height="30" width="30" /></code>
-<!-- Last update: 2025-05-25T18:51:20.421Z -->
+<!-- Last update: 2025-05-25T18:59:17.235Z -->
 <!--languages:end-->
 
 ## 📌 Last viewed activities
@@ -74,6 +74,8 @@ Our approach combines technical quality with principles of transparency, securit
 <!--activity:start-->
 <details><summary>🎯 If you click you will see the history</summary>
 
+`[2025 05/25 18:52]` ❌ Deleted `v1` from [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
+`[2025 05/25 18:52]` 📂 Created branch [`main`](https://github.com/k4itrun/hackercam/tree/main) in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
 `[2025 05/25 18:05]` ❌ Deleted `v1` from [k4itrun/erisphisher](https://github.com/k4itrun/erisphisher)<br/>
 `[2025 05/25 18:05]` 📂 Created branch [`main`](https://github.com/k4itrun/erisphisher/tree/main) in [k4itrun/erisphisher](https://github.com/k4itrun/erisphisher)<br/>
 `[2025 05/25 18:04]` 🏷 Released [`v1.0.0`](https://github.com/k4itrun/erisphisher/releases/tag/v1.0.0) in [k4itrun/erisphisher](https://github.com/k4itrun/erisphisher)<br/>
@@ -86,12 +88,10 @@ Our approach combines technical quality with principles of transparency, securit
 `[2025 05/24 02:54]` 🎉 Merged PR [`#17`](https://github.com/billoneta/kitsune/pull/17 'chore(deps): update dependency semantic-release to v24.2.5') in [billoneta/kitsune](https://github.com/billoneta/kitsune)<br/>
 `[2025 05/24 02:01]` 📝 Made `1` commit in [k4itrun/.github](https://github.com/k4itrun/.github)<br/>
 `[2025 05/24 01:57]` 📝 Made `1` commit in [k4itrun/wish](https://github.com/k4itrun/wish)<br/>
-`[2025 05/24 01:55]` 📝 Made `2` commits in [k4itrun/.github](https://github.com/k4itrun/.github)<br/>
-`[2025 05/24 00:07]` 📝 Made `11` commits in [k4itrun/wish](https://github.com/k4itrun/wish)<br/>
-`[2025 05/23 02:06]` 🎉 Merged PR [`#27`](https://github.com/k4itrun/wish/pull/27 'chore(deps): update dependency electron to v36.3.1') in [k4itrun/wish](https://github.com/k4itrun/wish)
+`[2025 05/24 01:55]` 📝 Made `2` commits in [k4itrun/.github](https://github.com/k4itrun/.github)
 
 </details>
-<!-- Last update: 2025-05-25T18:51:20.096Z -->
+<!-- Last update: 2025-05-25T18:59:16.690Z -->
 <!--activity:end-->
 
 <p align="right">
