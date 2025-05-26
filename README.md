@@ -50,7 +50,7 @@ Our approach combines technical quality with principles of transparency, securit
 | :-----------------------------: | :----------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------: |
 | <code>[2023 12/13 01:52]</code> | [discord-injection](https://github.com/wishware/discord-injection) | <code>7</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 💉 Discord-injection Premium and un... | <code>JavaScript</code> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="20" width="20" /> |
 | <code>[2025 04/08 01:01]</code> | [app-wishxner](https://github.com/wishware/app-wishxner)           | <code>2</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 📡 App that will generally help you... | <code>TypeScript</code> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="20" width="20" /> |
-<!-- Last update: 2025-05-26T17:57:58.428Z -->
+<!-- Last update: 2025-05-26T18:25:19.846Z -->
 <!--repository:end-->
 
 > [!IMPORTANT]  
@@ -66,7 +66,7 @@ Our approach combines technical quality with principles of transparency, securit
 <code><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="30" width="30" /></code>
 <code><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="30" width="30" /></code>
 <code><img src="https://github.com/user-attachments/assets/76a9fd72-22ac-46f0-a3bd-d2a7dc1119f9" alt="Shell icon unknown" height="30" width="30" /></code>
-<!-- Last update: 2025-05-26T17:57:59.087Z -->
+<!-- Last update: 2025-05-26T18:25:20.379Z -->
 <!--languages:end-->
 
 ## 📌 Last viewed activities
@@ -74,7 +74,11 @@ Our approach combines technical quality with principles of transparency, securit
 <!--activity:start-->
 <details><summary>🎯 If you click you will see the history</summary>
 
-`[2025 05/26 15:22]` 📝 Made `1` commit in [k4itrun/wick](https://github.com/k4itrun/wick)<br/>
+`[2025 05/26 16:58]` ❗️ Closed issue [`#20`](https://github.com/k4itrun/wick/issues/20 'Ban') in [k4itrun/wick](https://github.com/k4itrun/wick)<br/>
+`[2025 05/26 16:58]` ❗️ Closed issue [`#19`](https://github.com/k4itrun/wick/issues/19 'dont work help?') in [k4itrun/wick](https://github.com/k4itrun/wick)<br/>
+`[2025 05/26 16:58]` ❗️ Closed issue [`#22`](https://github.com/k4itrun/wick/issues/22 'wick qr bot not working ') in [k4itrun/wick](https://github.com/k4itrun/wick)<br/>
+`[2025 05/26 16:58]` ❗️ Closed issue [`#23`](https://github.com/k4itrun/wick/issues/23 'slash commands don\'t work.') in [k4itrun/wick](https://github.com/k4itrun/wick)<br/>
+`[2025 05/26 16:55]` 📝 Made `2` commits in [k4itrun/wick](https://github.com/k4itrun/wick)<br/>
 `[2025 05/26 01:32]` ⭐ Starred repository [typicode/lowdb](https://github.com/typicode/lowdb)<br/>
 `[2025 05/25 21:11]` 📝 Made `1` commit in [k4itrun/any](https://github.com/k4itrun/any)<br/>
 `[2025 05/25 21:06]` ❗️ Closed issue [`#1`](https://github.com/k4itrun/any/issues/1 'Action Required: Fix Renovate Configuration') in [k4itrun/any](https://github.com/k4itrun/any)<br/>
@@ -84,14 +88,10 @@ Our approach combines technical quality with principles of transparency, securit
 `[2025 05/25 19:58]` ⭐ Starred repository [k4itrun/k4itrun](https://github.com/k4itrun/k4itrun)<br/>
 `[2025 05/25 19:58]` ⭐ Starred repository [k4itrun/vbs-injector](https://github.com/k4itrun/vbs-injector)<br/>
 `[2025 05/25 19:58]` ⭐ Starred repository [k4itrun/discord.js-token](https://github.com/k4itrun/discord.js-token)<br/>
-`[2025 05/25 19:58]` ⭐ Starred repository [k4itrun/any](https://github.com/k4itrun/any)<br/>
-`[2025 05/25 19:58]` ⭐ Starred repository [k4itrun/wick](https://github.com/k4itrun/wick)<br/>
-`[2025 05/25 19:58]` ⭐ Starred repository [k4itrun/antilinks-bypasser](https://github.com/k4itrun/antilinks-bypasser)<br/>
-`[2025 05/25 19:58]` ⭐ Starred repository [k4itrun/next-portfolio](https://github.com/k4itrun/next-portfolio)<br/>
-`[2025 05/25 19:58]` ⭐ Starred repository [k4itrun/.github](https://github.com/k4itrun/.github)
+`[2025 05/25 19:58]` ⭐ Starred repository [k4itrun/any](https://github.com/k4itrun/any)
 
 </details>
-<!-- Last update: 2025-05-26T17:57:58.814Z -->
+<!-- Last update: 2025-05-26T18:25:20.165Z -->
 <!--activity:end-->
 
 <p align="right">
