@@ -50,7 +50,7 @@ Our approach combines technical quality with principles of transparency, securit
 | :-----------------------------: | :----------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------: |
 | <code>[2023 12/13 01:52]</code> | [discord-injection](https://github.com/wishware/discord-injection) | <code>7</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 💉 Discord-injection Premium and un... | <code>JavaScript</code> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="20" width="20" /> |
 | <code>[2025 04/08 01:01]</code> | [app-wishxner](https://github.com/wishware/app-wishxner)           | <code>2</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 📡 App that will generally help you... | <code>TypeScript</code> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="20" width="20" /> |
-<!-- Last update: 2025-05-30T17:33:13.993Z -->
+<!-- Last update: 2025-05-30T17:44:22.880Z -->
 <!--repository:end-->
 
 > [!IMPORTANT]  
@@ -66,7 +66,7 @@ Our approach combines technical quality with principles of transparency, securit
 <code><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="30" width="30" /></code>
 <code><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="30" width="30" /></code>
 <code><img src="https://github.com/user-attachments/assets/76a9fd72-22ac-46f0-a3bd-d2a7dc1119f9" alt="Shell icon unknown" height="30" width="30" /></code>
-<!-- Last update: 2025-05-30T17:33:14.841Z -->
+<!-- Last update: 2025-05-30T17:44:23.533Z -->
 <!--languages:end-->
 
 ## 📌 Last viewed activities
@@ -74,6 +74,7 @@ Our approach combines technical quality with principles of transparency, securit
 <!--activity:start-->
 <details><summary>🎯 If you click you will see the history</summary>
 
+`[2025 05/29 22:25]` 📝 Made `1` commit in [k4itrun/6889.fun](https://github.com/k4itrun/6889.fun)<br/>
 `[2025 05/29 22:13]` ❌ Deleted `v1.0.0` from [k4itrun/next-portfolio](https://github.com/k4itrun/next-portfolio)<br/>
 `[2025 05/29 22:13]` 📝 Made `1` commit in [k4itrun/next-portfolio](https://github.com/k4itrun/next-portfolio)<br/>
 `[2025 05/29 21:56]` ❌ Deleted `v1.0.1` from [k4itrun/next-portfolio](https://github.com/k4itrun/next-portfolio)<br/>
@@ -87,11 +88,10 @@ Our approach combines technical quality with principles of transparency, securit
 `[2025 05/28 03:03]` 📝 Made `1` commit in [k4itrun/erisphisher](https://github.com/k4itrun/erisphisher)<br/>
 `[2025 05/28 03:03]` 📝 Made `1` commit in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
 `[2025 05/28 03:02]` 📝 Made `1` commit in [k4itrun/vbs-injector](https://github.com/k4itrun/vbs-injector)<br/>
-`[2025 05/28 03:01]` 📝 Made `1` commit in [k4itrun/wick](https://github.com/k4itrun/wick)<br/>
-`[2025 05/28 02:51]` 📝 Made `1` commit in [k4itrun/wish](https://github.com/k4itrun/wish)
+`[2025 05/28 03:01]` 📝 Made `1` commit in [k4itrun/wick](https://github.com/k4itrun/wick)
 
 </details>
-<!-- Last update: 2025-05-30T17:33:14.462Z -->
+<!-- Last update: 2025-05-30T17:44:23.250Z -->
 <!--activity:end-->
 
 <p align="right">
