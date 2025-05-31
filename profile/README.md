@@ -49,7 +49,7 @@ Our approach combines technical quality with principles of transparency, securit
 |            Published            | Repository                                                         |                                                                        Stars                                                                        | Description                            |                                                           Language                                                           |
 | :-----------------------------: | :----------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------: |
 | <code>[2023 12/13 01:52]</code> | [discord-injection](https://github.com/wishware/discord-injection) | <code>7</code> <img src="https://github.com/user-attachments/assets/320cf792-938e-491f-b54c-62b7c653ce31" alt="Star icon" height="20" width="20" /> | 💉 Discord-injection Premium and un... | <code>JavaScript</code> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="20" width="20" /> |
-<!-- Last update: 2025-05-31T10:33:40.718Z -->
+<!-- Last update: 2025-05-31T10:45:09.953Z -->
 <!--repository:end-->
 
 > [!IMPORTANT]  
@@ -65,7 +65,7 @@ Our approach combines technical quality with principles of transparency, securit
 <code><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" height="30" width="30" /></code>
 <code><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" height="30" width="30" /></code>
 <code><img src="https://github.com/user-attachments/assets/76a9fd72-22ac-46f0-a3bd-d2a7dc1119f9" alt="Shell icon unknown" height="30" width="30" /></code>
-<!-- Last update: 2025-05-31T10:33:41.143Z -->
+<!-- Last update: 2025-05-31T10:45:10.676Z -->
 <!--languages:end-->
 
 ## 📌 Last viewed activities
@@ -73,6 +73,8 @@ Our approach combines technical quality with principles of transparency, securit
 <!--activity:start-->
 <details><summary>🎯 If you click you will see the history</summary>
 
+`[2025 05/30 15:05]` 📝 Made `2` commits in [billoneta/kitsune](https://github.com/billoneta/kitsune)<br/>
+`[2025 05/30 15:05]` 🎉 Merged PR [`#41`](https://github.com/billoneta/kitsune/pull/41 'chore(deps): update dependency eslint-plugin-import-x to v4.14.0') in [billoneta/kitsune](https://github.com/billoneta/kitsune)<br/>
 `[2025 05/30 01:30]` 📝 Made `2` commits in [billoneta/kitsune](https://github.com/billoneta/kitsune)<br/>
 `[2025 05/30 01:30]` 🎉 Merged PR [`#37`](https://github.com/billoneta/kitsune/pull/37 'chore(deps): update dependency @types/node to v22.15.26') in [billoneta/kitsune](https://github.com/billoneta/kitsune)<br/>
 `[2025 05/29 22:56]` 📝 Made `2` commits in [k4itrun/billoneta.xyz](https://github.com/k4itrun/billoneta.xyz)<br/>
@@ -85,12 +87,10 @@ Our approach combines technical quality with principles of transparency, securit
 `[2025 05/29 21:52]` 🎉 Merged PR [`#36`](https://github.com/billoneta/kitsune/pull/36 'chore(deps): update dependency @next/eslint-plugin-next to v15.3.3') in [billoneta/kitsune](https://github.com/billoneta/kitsune)<br/>
 `[2025 05/29 15:38]` 📝 Made `3` commits in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
 `[2025 05/29 15:31]` 🗣 Commented on [`#4`](https://github.com/k4itrun/hackercam/issues/4 'Unable to run the bash script   (My OS : BackBox)') in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
-`[2025 05/29 15:31]` 📝 Made `2` commits in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
-`[2025 05/29 14:10]` ❗️ Closed issue [`#4`](https://github.com/k4itrun/hackercam/issues/4 'Unable to run the bash script   (My OS : BackBox)') in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)<br/>
-`[2025 05/28 03:03]` 📝 Made `1` commit in [k4itrun/erisphisher](https://github.com/k4itrun/erisphisher)
+`[2025 05/29 15:31]` 📝 Made `2` commits in [k4itrun/hackercam](https://github.com/k4itrun/hackercam)
 
 </details>
-<!-- Last update: 2025-05-31T10:33:40.978Z -->
+<!-- Last update: 2025-05-31T10:45:10.503Z -->
 <!--activity:end-->
 
 <p align="right">
